@@ -1,0 +1,102 @@
+
+@media only screen and (min-width: 0)  and (max-width: 800px) {
+
+.section2-first{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+
+}
+.madia
+{
+    display: flex;   
+}
+
+.card{
+width: 100% ;
+}
+.madia-list
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.mdia-first-section
+{
+    width: 100% !important;
+
+}
+.section3
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon8
+{
+margin-top: 100px;
+
+}
+
+.section3-nasted-mid
+{
+    width: 100%;
+}
+
+
+.media-last
+{
+display: flex;
+flex-direction: column;
+width: 100% ;
+height: 100%;
+}
+
+.media-last1
+{
+    width: 90% !important;
+}
+.madia-ICON
+{
+  margin-left: 42%;
+}
+
+
+/* footer
+{
+    margin-top: 450px;
+}
+ */
+
+
+}
+
+
+
+
+
+/* @media only screen and (min-width: 767px)and(max-width:1023px) {
+  
+}
+
+@media only screen and (min-width: 1024)
+
+{
+
+
+
+}
+
+@media only screen and (min-width: 1025px) {
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+
+
+    
+} */
+
+
